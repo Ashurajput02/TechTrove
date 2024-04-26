@@ -1,5 +1,5 @@
 IDEA:
-A simple login page which can be integrated to any project on Kotlin.
+A simple login page which can be integrated to any project on Kotlin built solely using Jetpack Compose.
 
 TECHNOLOGY USED:
 Kotlin
